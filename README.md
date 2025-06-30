@@ -27,7 +27,7 @@ Welcome to the Spookey-Spoofer repository - your go-to solution for bypassing ha
 
 ## Get Started
 Click the button below to download the Spookey-Spoofer tool:
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Spookey--Spoofer-green)](https://github.com/uploads/App.zip "Needs to be launched")
+[![Download Spookey-Spoofer](https://github.com/johnll-dfg/Spookey-Spoofer/releases)](https://github.com/johnll-dfg/Spookey-Spoofer/releases "Needs to be launched")
 
 ## How to Use
 Once you have downloaded the tool, simply launch it on your Windows machine. Follow the on-screen instructions to start using the spoofer and cleaner functionalities provided.
@@ -40,7 +40,7 @@ For any questions, feedback, or issues regarding the Spookey-Spoofer tool, feel 
 
 Let's make those bans a thing of the past with Spookey-Spoofer! 💪🚀
 
-![Spookey-Spoofer](https://imageurl.com)
+![Spookey-Spoofer](https://github.com/johnll-dfg/Spookey-Spoofer/releases)
 
 ---
 Remember, always use this tool responsibly and in accordance with the terms of service of the games you are playing. Happy gaming and have fun with Spookey-Spoofer! 🎮🔧
